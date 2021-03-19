@@ -22,8 +22,6 @@ Note that if you use the Admin Plugin, a file with your configuration named flex
 
 Installing the Flex Objects Json plugin can be done in one of three ways: The GPM (Grav Package Manager) installation method lets you quickly install the plugin with a simple terminal command, the manual method lets you do so via a zip file, and the admin method lets you do so via the Admin Plugin.
 
-> **NB:** Currently, only manual installation available. Maybe plugin will be added to GPM in the future, but not yet.
-
 ### GPM Installation (Preferred)
 
 To install the plugin via the [GPM](http://learn.getgrav.org/advanced/grav-gpm), through your system's terminal (also called the command line), navigate to the root of your Grav-installation, and enter:
